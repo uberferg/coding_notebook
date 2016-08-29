@@ -5,3 +5,6 @@ through Learn C the Hard Way by Zed Shaw.
 
 ## C Installation/Setup
 ### ArchLinux
+* You should have a C compiler installed by default on any Linux system,
+  most likely a version of GCC. Check by running:
+  * `$ cc --version`
