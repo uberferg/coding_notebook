@@ -27,7 +27,7 @@ cat > $PAGE_FILE <<- EOM
    "metadata": {},
    "outputs": [],
    "source": [
-    "%pylab\n",
+    "%pylab inline\n",
     "import matplotlib\n",
     "import matplotlib.pyplot as plt\n",
     "import numpy as np"
